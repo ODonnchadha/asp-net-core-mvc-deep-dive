@@ -1,6 +1,6 @@
 ﻿using Globomantics.Domain.Models;
 
-namespace Globomatics.Infrastructure.Repositories;
+namespace Globomatics.Infrastructure.Interfaces.Repositories;
 
 public interface ICartRepository : IRepository<Cart>
 {

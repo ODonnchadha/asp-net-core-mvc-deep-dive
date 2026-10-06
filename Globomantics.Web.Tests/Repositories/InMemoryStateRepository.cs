@@ -1,4 +1,4 @@
-﻿using Globomatics.Infrastructure.Repositories;
+﻿using Globomatics.Infrastructure.Interfaces.Repositories;
 
 namespace Globomantics.Web.Tests.Repositories;
 

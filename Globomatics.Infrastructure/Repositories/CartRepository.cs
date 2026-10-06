@@ -2,6 +2,7 @@
 
 using Globomantics.Domain.Models;
 using Globomantics.Infrastructure.Data;
+using Globomatics.Infrastructure.Interfaces.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 public class CartRepository : GenericRepository<Cart>, ICartRepository

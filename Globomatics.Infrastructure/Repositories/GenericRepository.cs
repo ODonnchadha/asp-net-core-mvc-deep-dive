@@ -1,4 +1,5 @@
 ﻿using Globomantics.Infrastructure.Data;
+using Globomatics.Infrastructure.Interfaces.Repositories;
 
 namespace Globomatics.Infrastructure.Repositories;
 

@@ -1,4 +1,4 @@
-﻿namespace Globomatics.Infrastructure.Repositories;
+﻿namespace Globomatics.Infrastructure.Interfaces.Repositories;
 
 public interface IRepository<T>
 {
